@@ -1,0 +1,88 @@
+{
+  "id": 1,
+  "url": "https://en.wikipedia.org/wiki/Alan_Turing",
+  "title": "Alan Turing",
+  "summary": "Alan Turing was a British mathematician, logician, and computer science pioneer whose work underpinned modern computing and wartime cryptanalysis.",
+  "key_entities": {
+    "people": ["Alan Turing", "Alonzo Church", "Joan Clarke"],
+    "organizations": ["University of Cambridge", "Government Code and Cypher School", "Manchester Mark 1"],
+    "locations": ["United Kingdom", "Bletchley Park", "Princeton"]
+  },
+  "sections": [
+    "Early life and education",
+    "Princeton and academic work",
+    "Codebreaking during World War II",
+    "Computing and artificial intelligence",
+    "Prosecution and legacy"
+  ],
+  "quiz": [
+    {
+      "question": "Which university awarded Alan Turing his undergraduate degree?",
+      "options": [
+        "Harvard University",
+        "University of Cambridge",
+        "University of Manchester",
+        "University of Oxford"
+      ],
+      "answer": "University of Cambridge",
+      "difficulty": "easy",
+      "explanation": "Turing completed his undergraduate studies at King's College, Cambridge in 1934."
+    },
+    {
+      "question": "What was the primary objective of the Bombe machines designed under Turing's direction?",
+      "options": [
+        "Automating aircraft design",
+        "Breaking the German Enigma cipher",
+        "Simulating human conversation",
+        "Testing nuclear fission"
+      ],
+      "answer": "Breaking the German Enigma cipher",
+      "difficulty": "medium",
+      "explanation": "The Bombe machines were electromechanical devices that accelerated the discovery of Enigma key settings."
+    },
+    {
+      "question": "Which concept did the 1950 Turing Test explore?",
+      "options": [
+        "Machine imitation of intelligent behaviour",
+        "Efficient prime factorisation",
+        "Quantum computation",
+        "Secure wireless communication"
+      ],
+      "answer": "Machine imitation of intelligent behaviour",
+      "difficulty": "medium",
+      "explanation": "The Turing Test examined whether a machine's responses could be indistinguishable from a human's during conversation."
+    },
+    {
+      "question": "What chemical treatment was Alan Turing subjected to following his 1952 conviction?",
+      "options": [
+        "Chemotherapy",
+        "Hormonal therapy",
+        "Insulin shock therapy",
+        "Electroconvulsive therapy"
+      ],
+      "answer": "Hormonal therapy",
+      "difficulty": "hard",
+      "explanation": "Turing accepted a course of oestrogen injections, often described as chemical castration, instead of imprisonment."
+    },
+    {
+      "question": "Which early stored-program computer did Turing help develop after the war?",
+      "options": [
+        "UNIVAC I",
+        "Manchester Mark 1",
+        "ENIAC",
+        "EDSAC"
+      ],
+      "answer": "Manchester Mark 1",
+      "difficulty": "medium",
+      "explanation": "Turing joined the University of Manchester and contributed to software development for the Manchester Mark 1."
+    }
+  ],
+  "related_topics": [
+    "Cryptanalysis",
+    "Bombe",
+    "History of computer science",
+    "Artificial intelligence",
+    "LGBT rights in the United Kingdom"
+  ]
+}
+
